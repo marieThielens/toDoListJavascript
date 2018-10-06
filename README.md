@@ -1,4 +1,6 @@
-# Faire une todoList en ajax avec des requêtes vers la base de donnée
+# Faire une todoList 
+
+## Techno employées : javascript / ajax / base de donnée
 
 J'ai crée une todolist en javascript. Et comme le savoir ça se partage je me suis dit : "allez poulette, et si tu faisais ton premier article de dev ? " C'est donc avec une grande fierté et une maladresse de junior que je me lance dans l'aventure.
  
